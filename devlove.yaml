@@ -1,0 +1,5 @@
+---
+shimmercat-devlove:
+    domains:
+        tests.chartssite.example:
+            root-dir: site
